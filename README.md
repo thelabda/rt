@@ -1,10 +1,12 @@
--Spoofy
-is a program that checks if a list of domains can be spoofed based on SPF and DMARC records. You may be asking, "Why do we need another tool that can check if a domain can be spoofed?"
+#################################################################################################################################################################################################
+-Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records. You may be asking, "Why do we need another tool that can check if a domain can be spoofed?"#
+#################################################################################################################################################################################################
 https://github.com/MattKeeley/Spoofy
 
 python3 spoofy.py -d <DOMAIN> -o stdout
-
--NameHash Creating a user name list for brute force attacks.
+#############################################################
+-NameHash Creating a user name list for brute force attacks.#
+#############################################################
 
 Invoke-UsernameHarvestOWA -ExchHostname <TARGET> -Domain <DOMAIN> -UserList <users.lst> -OutFile <output.txt>
 
