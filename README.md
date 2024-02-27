@@ -20,3 +20,8 @@ https://gist.github.com/superkojiman/11076951
 https://github.com/GhostPack/Seatbelt
 
 C:\Tools\Seatbelt\Seatbelt\bin\Release\Seatbelt.exe -group=system
+
+####################
+
+- Symantec Sitereview
+https://sitereview.bluecoat.com/#/
