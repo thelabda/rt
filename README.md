@@ -34,3 +34,13 @@ https://github.com/mdsecactivebreach/Chameleon
 
 usage: chameleon.py [-h] [--proxy <proxy>] [--check] [--submit]
                     [--domain <domain>]
+
+####################
+
+- SharePersist is a Windows persistence toolkit written by FireEye. It's written in C#, so can be executed via execute-assembly.
+ 
+https://github.com/mandiant/SharPersist
+
+####################
+
+
