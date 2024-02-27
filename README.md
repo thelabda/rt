@@ -25,3 +25,12 @@ C:\Tools\Seatbelt\Seatbelt\bin\Release\Seatbelt.exe -group=system
 
 - Symantec Sitereview
 https://sitereview.bluecoat.com/#/
+
+####################
+
+ - Chameleon is a tool which assists red teams in categorising their infrastructure under arbitrary categories. Currently, the tool supports arbitrary categorisation for Bluecoat, McAfee Trustedsource and IBM X-Force. However, the tool is designed in such a way that additional proxies can be added with ease.
+
+https://github.com/mdsecactivebreach/Chameleon
+
+usage: chameleon.py [-h] [--proxy <proxy>] [--check] [--submit]
+                    [--domain <domain>]
